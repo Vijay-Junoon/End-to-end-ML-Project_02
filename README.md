@@ -72,20 +72,7 @@ Metrics
 
 ## DVC Pipeline DAG
 
-Add your pipeline image here.
-
-```md
-![DVC Pipeline](images/pipeline.png)
-```
-
-> Place your screenshot inside an `images/` folder and name it `pipeline.png`.
-
-Example:
-
-```text
-images/
-└── pipeline.png
-```
+![DVC Pipeline](pipeline_02.png)
 
 ---
 
@@ -248,8 +235,8 @@ dvc dag
 Clone repository:
 
 ```bash
-git clone <your-repository-url>
-cd ML_PIPELINE_02
+git clone https://github.com/Vijay-Junoon/End-to-end-ML-Project_02/edit/main
+cd End-to-end-ML-Project_02
 ```
 
 Install dependencies:
